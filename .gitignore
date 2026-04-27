@@ -1,0 +1,14 @@
+# Diretórios gerados na compilação
+# Arquivos finais de compilação
+bin/
+
+# Arquivos temporários de depuração
+obj/
+
+# Ignorando a resolução e teste
+CalcRefactor.cs
+CalcRefactor2.cs
+Atividade01Resolvida.cs
+Atividade02Respondido.cs
+Atividade04REsolvido.cs
+
