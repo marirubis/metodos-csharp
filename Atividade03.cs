@@ -2,6 +2,7 @@
 Código pronto, utilize para tirar dúvidas
 */
 
+/*
 static void ExibirMenuConversao()
 {
     Console.Clear();
@@ -64,3 +65,4 @@ static void ExecutarConversor()
 }
 
 ExecutarConversor();
+*/
